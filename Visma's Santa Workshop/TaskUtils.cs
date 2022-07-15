@@ -144,6 +144,7 @@ namespace Visma_s_Santa_Workshop
         public void AddGift(List<Workshop> data)
         {
             Console.Clear();
+            Console.WriteLine("Enter gift name: ");
             string gift = System.Console.ReadLine();
             Workshop newData = new Workshop(null, gift);
             WriteData(newData.ToFile(), Runner.dataFilePath);
