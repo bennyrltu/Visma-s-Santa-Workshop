@@ -1,1 +1,2 @@
 # Visma's Santa Workshop
+Welcome and thanks for using Visma's Santa Workshop. This program is a console application made in C# programming language, reads and writes to data.csv format file, if such doesn't exist it is automatically created. There are given simple instruction on how to use the program and there are various checks to prevent user entering wrong data and other possible errors. Good luck and have fun using the application!
